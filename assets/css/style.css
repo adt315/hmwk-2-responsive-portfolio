@@ -1,6 +1,6 @@
 
 body {
-    background-color: #b8b8b6;
+    background-color: #d6d6d2;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
     font-weight: bold;
 }
 
-.placeholder-image {
+.placeholder {
     height: 150px;
     width: 150px;
     margin: 10px;
@@ -55,4 +55,8 @@ span.navbar-brand {
 
 .form-control {
     width: 85%;
+}
+
+.navbar-nav {
+    text-align: right;
 }
