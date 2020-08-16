@@ -5,6 +5,8 @@ body {
 
 h1 {
     color: teal;
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    font-weight: bold;
 }
 
 .placeholder-image {
@@ -19,6 +21,15 @@ h1 {
 
 .btn {
     background-color: teal;
+    width: 100px;
+}
+
+.card {
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 65px;
+    padding-top: 30px;
+    padding-left: 20px;
 }
 
 .contact {
@@ -27,4 +38,21 @@ h1 {
 
 .portfolio {
     width: 500px;
+}
+
+label {
+    color: #8d8d8c;
+    font-weight: bold;
+}
+
+span.navbar-brand {
+    background-color: teal;
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    font-weight: bold;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.form-control {
+    width: 85%;
 }
