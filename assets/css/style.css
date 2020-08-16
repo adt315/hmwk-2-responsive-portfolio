@@ -1,9 +1,30 @@
 
 body {
-    background-color: #929291;
+    background-color: #b8b8b6;
 }
 
 h1 {
     color: teal;
 }
 
+.placeholder-image {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
+
+.about, .contact {
+    width: 800px;
+}
+
+.btn {
+    background-color: teal;
+}
+
+.contact {
+    height: 500px;
+}
+
+.portfolio {
+    width: 500px;
+}
