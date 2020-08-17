@@ -3,33 +3,20 @@ body {
     background-color: #d6d6d2;
 }
 
-h1 {
-    color: teal;
+span.navbar-brand {
+    background-color: teal;
     font-family: "Palatino Linotype", "Book Antiqua", serif;
     font-weight: bold;
+    margin-left: 50px;
+    padding: 10px;
 }
 
-.placeholder {
-    height: 150px;
-    width: 150px;
-    margin: 10px;
+.navbar-nav {
+    text-align: right;
 }
 
 .about, .contact {
     width: 800px;
-}
-
-.btn {
-    background-color: teal;
-    width: 100px;
-}
-
-.card {
-    background-color: white;
-    margin-top: 50px;
-    margin-left: 65px;
-    padding-top: 30px;
-    padding-left: 20px;
 }
 
 .contact {
@@ -40,23 +27,42 @@ h1 {
     width: 500px;
 }
 
-label {
-    color: #8d8d8c;
+.card {
+    background-color: white;
+    margin: 50px 65px 50px 65px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+h1 {
+    color: teal;
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
     font-weight: bold;
 }
 
-span.navbar-brand {
-    background-color: teal;
-    font-family: "Palatino Linotype", "Book Antiqua", serif;
+label {
+    color: #8d8d8c;
     font-weight: bold;
-    margin-left: 50px;
-    padding: 10px;
 }
 
 .form-control {
     width: 85%;
 }
 
-.navbar-nav {
-    text-align: right;
+.placeholder {
+    height: 150px;
+    margin: 10px;
+    width: 150px;
 }
+
+.btn {
+    background-color: teal;
+    width: 100px;
+}
+
+
+
+
+
+
+
