@@ -3,6 +3,8 @@ body {
     background-color: #d6d6d2;
 }
 
+/* Navigation Bar */
+
 span.navbar-brand {
     background-color: teal;
     font-family: "Palatino Linotype", "Book Antiqua", serif;
@@ -14,6 +16,8 @@ span.navbar-brand {
 .navbar-nav {
     text-align: right;
 }
+
+/* Sections */
 
 .about, .contact {
     width: 800px;
