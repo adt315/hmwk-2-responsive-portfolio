@@ -58,9 +58,9 @@ label {
 }
 
 .placeholder {
-    height: 150px;
-    margin: 10px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 30px;
 }
 
 .btn {
