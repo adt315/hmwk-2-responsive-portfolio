@@ -15,7 +15,4 @@ In future updates I would like to:
 
 https://adt315.github.io/responsive-portfolio/
 
-
-
-
-
+![Responsive Portfolio Screenshot](https://user-images.githubusercontent.com/51940058/91845508-4b559100-ec27-11ea-9a81-43408abcff18.png)
